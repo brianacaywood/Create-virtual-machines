@@ -22,7 +22,7 @@ In this tutorial, we observe how we create subscriptions and observe how resourc
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Create subscription in Azure"/>
+<img src="https://user-images.githubusercontent.com/131008349/232944197-50f5317d-7e4c-49e6-8be4-e5683e7d0bf0.PNG" height="80%" width="80%" alt="Create subscription in Azure"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
